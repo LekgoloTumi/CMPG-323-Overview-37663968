@@ -17,6 +17,8 @@ I will maintain the following repositories for my CMPG 323 individual project:
 Below is a diagram illustrating how I am integrating my project within my repository:
 ![Gitflow Diagram drawio](https://github.com/LekgoloTumi/CMPG-323-Overview-37663968/assets/111883458/f0dd7beb-9774-4ea5-936b-2544e4f921fc)
 
+[Diagram 2.xlsx](https://github.com/LekgoloTumi/CMPG-323-Overview-37663968/files/12313719/Diagram.2.xlsx)
+
 Below is a diagram illustrating a burndown chart with the estimated/actual hours worked on each individual task:
 
 [Burndown Chart.xlsx](https://github.com/LekgoloTumi/CMPG-323-Overview-37663968/files/12313501/Burndown.Chart.xlsx)
