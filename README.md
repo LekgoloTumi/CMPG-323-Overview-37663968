@@ -19,6 +19,7 @@ Below is a diagram illustrating how I am integrating my project within my reposi
 
 Below is a diagram illustrating a burndown chart with the estimated/actual hours worked on each individual task:
 
+[Burndown Chart.xlsx](https://github.com/LekgoloTumi/CMPG-323-Overview-37663968/files/12313501/Burndown.Chart.xlsx)
 
 ## Branching Strategy
 
